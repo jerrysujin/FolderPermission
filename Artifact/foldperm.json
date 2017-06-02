@@ -10,6 +10,6 @@
   "iconUri": "https://dynamic.placementindia.com/recruiter_comp_logo/447376.png",
   "targetOsType": "Windows",
   "runCommand": {
-    "commandToExecute": "[concat('powershell.exe -ExecutionPolicy bypass \"& ./foldperm.ps1')]"
+    "commandToExecute": "[concat('powershell.exe -ExecutionPolicy bypass \"& ./folderperm.ps1')]"
   }
 }
